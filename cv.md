@@ -1,6 +1,6 @@
 # Kate Lukyanava
 
-## Junior frontend developer
+### Junior frontend developer
 * * *
 
 ## Contacts
